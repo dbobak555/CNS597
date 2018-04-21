@@ -1,0 +1,17 @@
+admin_login
+cgi-bin
+admin.php
+src
+main
+public
+admin
+dev
+phpmyadmin
+config
+users
+news
+ftp
+contact
+admin.html
+about
+supersecretpath
